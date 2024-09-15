@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=haiiro
+Description=haiiro
+Author=cakes
+Copyright=cakes
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://haiiro.moe
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=cakes@haiiro.moe
+Theme-Id=haiiro
+QtVersion=6
